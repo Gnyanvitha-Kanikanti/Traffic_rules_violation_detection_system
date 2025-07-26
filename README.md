@@ -22,6 +22,7 @@ OCR: Tesseract OCR
 
 project/
 │
+
 ├── main.py                     
 ├── yolov8m.pt     # https://github.com/ultralytics/assets/releases/tag/v8.3.0            
 ├── license_plate_detector.pt                     
